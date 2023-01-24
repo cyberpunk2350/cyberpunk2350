@@ -5,9 +5,9 @@ Welcome to the mad house that is my GitHub, many of the repos here are forks fro
 Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team. 
 
 ---
-You can reach me on <a rel="me" href="https://nomanssky.social/@Cyberpunk2350">Mastodon</a>, [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
+You can reach me on [Mastodon/No Man's Sky Social][NoMansSkySocial], [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
 </br>
-![Mastodon my No Mans Sky Follow](https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social&?style=plastic)
+<a rel="me" href="https://nomanssky.social/@Cyberpunk2350"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social"></a>
 <!-- #### ![Follow my No Mans Sky Twitter](https://img.shields.io/twitter/follow/cyberpunk2350?style=plastic)[CPTwitter] -->
 
 ---
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 [assistantappswebsite]: https://assistantapps.com?ref=cyberpunk2350Github
 [assistantnms]: https://nmsassistant.com?ref=cyberpunk2350Github
 [CPtwitter]: https://twitter.com/cyberpunk250?ref=cyberpunk2350Github
-[CPNMSMast]: https://nomanssky.social/@cyberpunk2350?ref=cyberpunk2350Github
+[NoMansSkySocial]: https://nomanssky.social/@cyberpunk2350?ref=cyberpunk2350Github
 [email]: mailto:github@henryrice.com
 [linkedin]: https://www.linkedin.com/in/he2/?ref=cyberpunk2350Github
