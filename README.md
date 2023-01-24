@@ -1,12 +1,16 @@
-### Greetings, Programs!
-## I'm Cyberpunk2350 aka Henry 
+# Greetings, Programs! I'm Cyberpunk2350 aka Henry
+
 - Pronouns: He/Him/They/Them
-Welcome to the mad house that is my GitHub, many of the repos here are forks from long ago times of things I wanted to look at, but now they really need cleaned up and removed.  That said, there are a few active projects, and a few secret porojects.
-Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team.
+#### Welcome to the mad house that is my GitHub, many of the repos here are forks from long ago times of things I wanted to look at, but now they really need cleaned up and removed.  That said, there are a few active projects, and a few secret porojects.
+#### Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team. 
+
 ---
-You can reach me on [Mastodon][CPNMSMast], [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
+#### You can reach me on <a rel="me" href="https://nomanssky.social/@Cyberpunk2350">Mastodon</a>, [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email] 
+![Mastodon my No Mans Sky Follow](https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social&?style=plastic)
+<!-- #### ![Follow my No Mans Sky Twitter](https://img.shields.io/twitter/follow/cyberpunk2350?style=plastic)[CPTwitter] -->
+
 ---
-I will add more to this later but for now how about some stats...
+#### I will add more to this later but for now how about some stats... ####
 
 <div>
   <img alt="Henry's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberpunk2350&show_icons=true&hide_border=true&theme=github_dark" />
@@ -15,18 +19,15 @@ I will add more to this later but for now how about some stats...
 
 <div align="center">
     
-  <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=github_dark" />
-  ![Mastodon my No Mans Sky Follow](https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social&style=social)[CPNMSMast]
-  [![Follow my No Mans Sky Twitter](https://img.shields.io/twitter/follow/cyberpunk2350?color=%231d9bf0&style=for-the-badge)][CPTwitter]
-  ![Profile views](https://komarev.com/ghpvc/?username=cyberpunk2350&color=green&style=for-the-badge)
-  
+  <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=github_dark" />  
 </div>
+
 
 [![An image of @cyberpunk2350's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyberpunk2350)](https://holopin.io/@cyberpunk2350)
 
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=cyberpunk2350&color=green&?style=plastic)
 <!--
 **cyberpunk2350/cyberpunk2350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,6 +41,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Mastodon my No Mans Sky Follow](https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social&style=social)[CPNMSMast]
+  [![Follow my No Mans Sky Twitter](https://img.shields.io/twitter/follow/cyberpunk2350?color=%231d9bf0&style=for-the-badge)][CPTwitter]
+  [![Profile views](https://komarev.com/ghpvc/?username=cyberpunk2350&color=green&style=for-the-badge)
+
+
 -->
 
 
