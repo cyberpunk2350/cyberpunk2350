@@ -13,18 +13,12 @@ You can reach me on <a rel="me" href="https://nomanssky.social/@Cyberpunk2350">M
 ---
 I will add more to this later but for now how about some stats...
 
-<div>
-  <img alt="Henry's Github Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberpunk2350&show_icons=true&hide_border=true&theme=github_dark" />
-  <img alt="Henry's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=cyberpunk2350&theme=github-dark-blue&hide_border=true&date_format=%5BY%20%5DM%20j" />
-</div>
-
 <div align="left">
-  <img alt="More stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=github_dark" />  
-  <a href="https://holopin.io/@cyberpunk2350"><img src="https://www.holopin.me/cyberpunk2350" alt="@cyberpunk2350's Holopin board" />
-</a>
-
+  <a href="https://github-profile-summary-cards.vercel.app/"><img alt="More stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberpunk2350&theme=github_dark" /></a>
+  <a href="https://git.io/streak-stats"><img alt="Henry's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=cyberpunk2350&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /></a>
+  <a href="https://github-profile-summary-cards.vercel.app/"><img alt="More stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=github_dark" /></a>
+  <a href="https://holopin.io/@cyberpunk2350"><img alt="@cyberpunk2350's Holopin board" width="49%" src="https://www.holopin.me/cyberpunk2350" /></a>
 </div>
-
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=cyberpunk2350&color=green&?style=plastic)
