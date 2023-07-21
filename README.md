@@ -2,7 +2,7 @@
 - Pronouns: He/Him/They/Them
 ---
 Welcome to the mad house that is my GitHub, many of the repos here are forks from long ago times of things I wanted to look at, but now they really need cleaned up and removed.  That said, there are a few active projects, and a few secret porojects.
-Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team. 
+Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team and the [NMS Community Developers & Designers][NMSCD]. 
 
 ---
 You can reach me on [Mastodon/No Man's Sky Social][NoMansSkySocial], [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
@@ -48,3 +48,4 @@ Here are some ideas to get you started:
 [NoMansSkySocial]: https://nomanssky.social/@cyberpunk2350?ref=cyberpunk2350Github
 [email]: mailto:github@henryrice.com
 [linkedin]: https://www.linkedin.com/in/he2/?ref=cyberpunk2350Github
+[NMSCD]: https://github.com/NMSCD
