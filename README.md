@@ -1,17 +1,19 @@
 # Greetings, Programs! I'm Cyberpunk2350 aka Henry
 - Pronouns: He/Him/They/Them
 ---
-Welcome to the mad house that is my GitHub, many of the repos here are forks from long ago times of things I wanted to look at, but now they really need cleaned up and removed.  That said, there are a few active projects, and a few secret porojects.
-Of late I have been doing some work with the [Assistant Apps][assistantappswebsite] team and the [NMS Community Developers & Designers][NMSCD]. 
-
+Welcome to the mad house that is my GitHub. Many of the repos here are mostly things I wanted to look at and never did, along with a few active projects and a few secret ones.
+Some on going projects have included work with: 
+ * [Assistant Apps][assistantappswebsite] team 
+ * [NMS Community Developers & Designers][NMSCD]
+ * [Atlas Insight Initiative][AII] - [Website][AII-Web]
+ * [Not A Real Company][NARC] - [Website][NARC-Web]
 ---
-You can reach me on [Mastodon/No Man's Sky Social][NoMansSkySocial], [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
+You can reach me on [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-mail][email]
 </br>
-<a rel="me" href="https://nomanssky.social/@Cyberpunk2350"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109319785027829931?domain=https%3A%2F%2Fnomanssky.social"></a>
 <!-- #### ![Follow my No Mans Sky Twitter](https://img.shields.io/twitter/follow/cyberpunk2350?style=plastic)[CPTwitter] -->
 
 ---
-I will add more to this later but for now how about some stats...
+I will add more to this later, but for now, how about some stats...
 
 <div align="left">
   <a href="https://github-profile-summary-cards.vercel.app/"><img alt="More stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberpunk2350&theme=github_dark" /></a>
@@ -49,3 +51,7 @@ Here are some ideas to get you started:
 [email]: mailto:github@henryrice.com
 [linkedin]: https://www.linkedin.com/in/he2/?ref=cyberpunk2350Github
 [NMSCD]: https://github.com/NMSCD
+[AII]: https://github.com/Atlas-Insight-Initiative
+[AII-Web]: https://nmscd.com/Atlas-Insight-Initiative/
+[NARC]: https://github.com/Not-A-Real-Company-Enterprises
+[NARC-Web]: https://notarealcompany.enterprises/
