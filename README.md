@@ -15,13 +15,15 @@ You can reach me on [The BirdSite][CPtwitter], [LinkedIn][linkedin], and via [E-
 ---
 I will add more to this later, but for now, how about some stats...
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberpunk2350&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberpunk2350&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberpunk2350&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cyberpunk2350&theme=holi&utcOffset=0)
 <div align="left">
-  <a href="https://github-profile-summary-cards.vercel.app/"><img alt="More stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberpunk2350&theme=github_dark" /></a>
-  <a href="https://git.io/streak-stats"><img alt="Henry's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=cyberpunk2350&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /></a>
-  <a href="https://github-profile-summary-cards.vercel.app/"><img alt="More stats" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberpunk2350&theme=github_dark" /></a>
+  <a href="https://git.io/streak-stats"><img alt="Henry's Github Stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=cyberpunk2350&theme=dark&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /></a></br>
   <a href="https://holopin.io/@cyberpunk2350"><img alt="@cyberpunk2350's Holopin board" width="49%" src="https://www.holopin.me/cyberpunk2350" /></a>
 </div>
-
 
 <!--
 **cyberpunk2350/cyberpunk2350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
