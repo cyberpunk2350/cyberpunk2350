@@ -23,7 +23,6 @@ I will add more to this later, but for now, how about some stats...
 </div>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=cyberpunk2350&color=green&?style=plastic)
 <!--
 **cyberpunk2350/cyberpunk2350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
